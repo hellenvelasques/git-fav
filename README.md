@@ -10,7 +10,7 @@ Ao tentar adicionar um perfil inexistente, o usuário recebe um alerta indicando
 
 Para remover um perfil favorito, é solicitada uma confirmação antes de excluir o usuário selecionado.
 
-!["Imagem do projeto"](https://github.com/hellenvelasques/git-fav/blob/main/assets/favicon.svg)
+!["Imagem do projeto"](https://github.com/hellenvelasques/git-fav/blob/main/assets/git-fav.jpg)
 
 <h2 id="applied-concepts">Conceitos aplicados</h2>
 
