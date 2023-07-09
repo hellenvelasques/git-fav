@@ -1,4 +1,4 @@
-export class GithubUser {
+export class GitHubUser {
   static search(username) {
     const endpoint = `https://api.github.com/users/${username}`
 

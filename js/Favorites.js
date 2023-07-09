@@ -1,4 +1,4 @@
-import { GithubUser } from "./GithubUser.js"
+import { GitHubUser } from "./GitHubUser.js"
 
 export class Favorites {
   constructor(root) {
@@ -22,7 +22,7 @@ export class Favorites {
         throw new Error('Usuário já cadastrado!')
       }
 
-      const user = await GithubUser.search(username)
+      const user = await GitHubUser.search(username)
 
       if(user.login === undefined) {
         throw new Error('Usuário não encontrado!')
